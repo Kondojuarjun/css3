@@ -1,0 +1,71 @@
+31) Which of the following CSS property defines how an image or video fits into container with established height and width?
+
+object-fit
+object-position
+position
+None of the above
+Answer object-fit
+32) Which type of CSS is used in the below code?
+
+<p style = "border:2px solid red;">  
+Inline CSS
+Internal CSS
+External CSS
+None of the above
+Answer Inline CSS
+33) Which of the following CSS property specifies the origin of the background-image?
+
+background-origin
+background-attachment
+background-size
+None of the above
+Answer background-origin
+34) The CSS property used to set the maximum width of the element's content box is -
+
+max-width property
+height property
+max-height property
+position property
+Answer max-width property
+35) Which if the following CSS function allows us to perform calculations?
+
+calc() function
+calculator() function
+calculate() function
+cal() function
+Answer calc() function
+36) The CSS property used to set the maximum height of the element's content box is -
+
+max-width property
+height property
+max-height property
+position property
+Answer max-height property
+37) The CSS property used to set the minimum width of the element's content box is -
+
+max-width property
+min-width property
+width property
+All of the above
+Answer min-width property
+38) Which of the following CSS property is used to represent the overflowed text which is not visible to the user?
+
+text-shadow
+text-stroke
+text-overflow
+text-decoration
+Answer text-overflow
+39) The CSS property which is used to define the set the difference between two lines of your content is -
+
+min-height property
+max-height property
+line-height property
+None of the above
+Answer line-height property
+40) The CSS property which is used to define the set the difference between two lines of your content is -
+
+min-height property
+max-height property
+line-height property
+None of the above
+Answer line-height property
